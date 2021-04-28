@@ -1,0 +1,10 @@
+{
+  "name"       : "trustedreviews/wp-maintenance-mode",
+  "description": "Maintenace mode.",
+  "homepage"   : "https://github.com/Trusted-Reviews-Limited/WP-Maintenance-Mode",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-2.0+",
+  "require": {
+    "composer/installers"        : "~1.0"
+  }
+}
